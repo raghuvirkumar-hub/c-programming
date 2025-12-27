@@ -1,5 +1,5 @@
 #include<stdio.h>
 int mani(){
-    printf("helio world");
+    printf("helio ");
     return 0;
 }
